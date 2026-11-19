@@ -1,68 +1,117 @@
-# Hi, I'm Trisha!
+# Hey there! I'm Trisha👋
 
-### AI & Data Science Undergraduate | Technology Enthusiast | Lifelong Learner
+### AI & Data Science Undergraduate | Technology Enthusiast | Lifelong Curious Learner
 
-I'm a third-year B.Tech Artificial Intelligence and Data Science student at **Saveetha Engineering College**, interested in exploring how technology, data and analytical thinking can solve real-world problems.
+I'm a third-year B.Tech Artificial Intelligence and Data Science student at **Saveetha Engineering College**, interested in exploring the intersection of technology, data and real-world problem-solving.
 
-I enjoy learning new technologies, working on collaborative projects, presenting ideas and exploring the intersection of technology and business.
+I enjoy understanding how things work, experimenting with new technologies, collaborating on projects and communicating ideas. I'm particularly interested in how AI and data can contribute to better decision-making and practical innovation.
 
-## About Me
+---
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
-- 💡 Interested in Artificial Intelligence, Data Analytics and Cybersecurity.
-- 📊 Exploring the applications of data in business strategy and decision-making.
-- 🗣️ Enjoy communication, presentations, collaborative learning and knowledge sharing.
-- 🌱 Continuously developing my technical and analytical skills.
-- 🤝 Open to meaningful projects, learning opportunities and collaborations.
+## 👩‍💻 About Me
 
-## Technical Skills
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Data Science (2028).
+- 🤖 Interested in Artificial Intelligence and Data Analytics.
+- 🔐 Exploring Cybersecurity and Cloud Security.
+- 📊 Curious about Business Strategy and Technology Management.
+- 💬 Enjoy presentations, discussions, communication and knowledge sharing.
+- 🌱 Continuously learning through projects, experimentation and collaboration.
+- 🤝 Open to meaningful projects, academic collaborations and learning opportunities.
 
-**Programming:** C, Java, Python, JavaScript
+## 🛠️ Technical Skills
 
-**Web Technologies:** HTML, CSS
+**Programming Languages**
+- C
+- Java
+- Python
+- JavaScript (Foundational)
 
-**Databases:** SQL, PL/SQL, DBMS
+**Web Technologies**
+- HTML
+- CSS
 
-**Tools & Technologies:** Git, GitHub, Google Colab, SQLite
+**Databases**
+- SQL
+- PL/SQL
+- DBMS
+- SQLite
 
-**Additional Exposure:** Unity, AR/VR, Fusion 360
+**Tools & Platforms**
+- Git & GitHub
+- Google Colab
+- Fusion 360
+- Unity
 
-## Projects & Experiences
+**Areas of Interest**
+- Artificial Intelligence
+- Data Analytics
+- Cybersecurity
+- Cloud Security
+- Technology & Business Strategy
+
+## 🚀 Projects & Experiences
 
 ### 1. Speculative Write Quarantine for Serverless TOCTOU Defense
-*Ongoing Academic Team Project*
+*Academic Team Project | Ongoing*
 
-- Exploring a security mechanism to prevent potentially unsafe database writes before runtime verification.
-- Working with Python and SQLite.
-- Focus areas: transaction management, write quarantine and security verification.
+Exploring a security mechanism that temporarily quarantines database write operations until runtime verification is completed.
+
+- Write interception and quarantine.
+- Database transaction management.
+- Runtime verification and security evaluation.
+- Python and SQLite implementation.
+
+**Technologies:** Python, SQLite, Pandas, Google Colab.
 
 ### 2. AI Secured: Innovation Without Exposure
-*IBM Z Datathon 2026*
+*IBM Z Datathon 2026 | Team Project*
 
-- Participated in a team project exploring AI security and data privacy.
-- Worked on an OpenAI-compatible FastAPI proxy concept involving sensitive-data masking and local rehydration.
-- Focus area: privacy-aware AI application development.
+Exploring privacy-aware AI application development through an OpenAI-compatible FastAPI proxy.
+
+- Sensitive information masking.
+- Local data rehydration.
+- Session-based tracking.
+- Privacy-conscious AI request processing.
+
+**Technologies:** Python, FastAPI, API Integration.
 
 ### 3. Web Development Internship Training
 *Wiztech Solutions | July 2026*
 
-- Gained practical exposure to HTML, CSS and JavaScript fundamentals.
+- Gained practical exposure to HTML and CSS.
+- Explored JavaScript fundamentals.
 - Practised webpage development and frontend coding exercises.
 
-## Certifications
+---
+
+## 📜 Certifications
 
 - AWS Certified Cloud Practitioner.
-- Database Management Systems certifications.
+- Database Management Systems Certifications.
 
-## Currently Exploring
+## 🌱 Currently Exploring
 
-- Artificial Intelligence and practical AI applications.
-- Data Analytics and business intelligence.
-- Cybersecurity and cloud security.
-- Technology management and business strategy.
+- Practical applications of Artificial Intelligence.
+- Data Analytics and data-driven decision-making.
+- Cybersecurity and cloud security concepts.
+- Business intelligence and technology management.
+- Strengthening programming and problem-solving fundamentals.
 
-## Let's Connect
+## 💡 Beyond Technology
 
-I'm interested in learning, exchanging ideas and collaborating on projects that encourage practical problem-solving and continuous growth.
+I enjoy presenting ideas, engaging in discussions, exploring different perspectives and learning from people with diverse interests.
 
-[LinkedIn]www.linkedin.com/in/trisha-priyadarshni-parida-a9814b340| [GitHub]https://github.com/Trisha-shii
+I believe that curiosity, communication and continuous learning are just as important as technical knowledge.
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow learners, mentors and professionals, exchanging ideas and collaborating on meaningful projects.
+
+# [Connect with me]
+
+**LinkedIn:**  www.linkedin.com/in/trisha-priyadarshni-parida-a9814b340
+**Github:** https://github.com/Trisha-shii
+
+---
+
+*Learning continuously. Building thoughtfully. Growing consistently.* ✨
